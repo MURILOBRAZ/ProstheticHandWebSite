@@ -1,0 +1,38 @@
+/* CSS GERAIS */
+body{
+  background-color: #fbfbfb;
+}
+.fundo{
+  background-color: rgba(201,202,199,0.5);
+}
+
+/* CSS dos Titulos */
+h1{
+  text-align: center;
+  color: black;
+  font-size: 58px;
+}
+h2{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+h3{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+h4{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+h5{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+h6{
+  font-size: 30px;
+  font-family: Helvetica;
+}
+/* CSS dos Parágrafos */
+p{
+  margin-left: 5%;
+}
